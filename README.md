@@ -3,7 +3,7 @@
 <h3>Description</h3>
 
 <p>
-  This is my description
+  Welcome to Habitual Runner, our new platformer. It is based around an endless runner with a monster named Crust chasing you. Arrow keys to move around. If you drop off the bottom of the screen you die. If Crust touches you, you die. This game is not finished(almost done) YOU HAVE BEEN WARNED.
  </p>
  <h3>Screenshots</h3>
 
