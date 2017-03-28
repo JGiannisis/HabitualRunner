@@ -7,3 +7,4 @@
  </p>
  <h3>Screenshots</h3>
 
+<img src="https://github.com/JGiannisis/HabitualRunner/blob/master/yalikegames/title.png">
