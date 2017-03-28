@@ -9,4 +9,4 @@
 
 <img src="https://github.com/JGiannisis/HabitualRunner/blob/master/yalikegames/title.png" width="200px">
 <img src="https://github.com/JGiannisis/HabitualRunner/blob/master/yalikegames/playing.png" width="200px">
-<img src="https://github.com/JGiannisis/HabitualRunner/blob/master/yalikegames/gameover.png" width="200px>
+<img src="https://github.com/JGiannisis/HabitualRunner/blob/master/yalikegames/gameover.png" width="200px">
