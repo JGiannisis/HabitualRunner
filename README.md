@@ -12,11 +12,9 @@
 <img src="https://github.com/JGiannisis/HabitualRunner/blob/master/yalikegames/gameover.png" width="200px">
 
 <h3>Resources</h3>
-<a href="https://www.python.org/downloads/"> Python Download</a>
-
-<a href="http://www.pygame.org/download.shtml"> Pygame Download</a>
-
-<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> Pygame Wheel Download</a>
+<a href="https://www.python.org/downloads/"> Python Download</a><br>
+<a href="http://www.pygame.org/download.shtml"> Pygame Download</a><br>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> Pygame Wheel Download</a><br>
 
 <h3>How to Install</h3>
 https://youtu.be/_GikMdhAhv0
