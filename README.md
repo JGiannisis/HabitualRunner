@@ -13,3 +13,4 @@
 
 <h3>Resources</h3>
 <a href="https://www.python.org/downloads/"> Python Download</a>
+<a href="http://www.pygame.org/download.shtml"> Pygame Download</a>
